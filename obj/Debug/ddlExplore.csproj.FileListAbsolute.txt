@@ -1,0 +1,11 @@
+D:\source\C#\ddlExplore\obj\Debug\ddlExplore.csproj.AssemblyReference.cache
+D:\source\C#\ddlExplore\obj\Debug\ddlExplore.Form1.resources
+D:\source\C#\ddlExplore\obj\Debug\ddlExplore.Properties.Resources.resources
+D:\source\C#\ddlExplore\obj\Debug\ddlExplore.csproj.GenerateResource.cache
+D:\source\C#\ddlExplore\obj\Debug\ddlExplore.csproj.CoreCompileInputs.cache
+D:\source\C#\ddlExplore\bin\Debug\ddlExplore.exe.config
+D:\source\C#\ddlExplore\bin\Debug\ddlExplore.exe
+D:\source\C#\ddlExplore\bin\Debug\ddlExplore.pdb
+D:\source\C#\ddlExplore\obj\Debug\ddlExplore.exe
+D:\source\C#\ddlExplore\obj\Debug\ddlExplore.pdb
+D:\source\C#\ddlExplore\obj\Debug\ddlExplore.exe.config
